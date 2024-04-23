@@ -1,8 +1,4 @@
-<<<<<<< HEAD
+
 Flask
 SQLAlchemy
-=======
-Flask
-SQLAlchemy
->>>>>>> 1430fc7d95c22442980aa8138ad75bdfe119a5b0
 psycopg2  # PostgreSQL driver
